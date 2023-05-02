@@ -1,0 +1,1 @@
+python alignn/train_folder.py --root_dir "alignn/examples/sample_data"  --batch_size "16" --epochs 2 --config "alignn/examples/sample_data/config_example.json" --output_dir="dump" 
