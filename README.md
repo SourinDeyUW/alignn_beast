@@ -4,6 +4,12 @@
 
 The Atomistic Line Graph Neural Network (https://www.nature.com/articles/s41524-021-00650-1)  introduces a new graph convolution layer that explicitly models both two and three body interactions in atomistic systems. 
 
+## Dataset generation (optional)
+First run prepare_loader_part1.py </br>
+Second, run prepare_loader_part2.py
+
+
+##setting up 
 
 conda create --name perl </br>
 source activate perl
