@@ -5,7 +5,7 @@
 The Atomistic Line Graph Neural Network (https://www.nature.com/articles/s41524-021-00650-1)  introduces a new graph convolution layer that explicitly models both two and three body interactions in atomistic systems. 
 
 ## Dataset generation (optional)
-The csv file and cif files are large , I provided the generated dataloader in .pickle file. The following 2 python files are used to generate this dataloader. Let me know if you want to run them. I will provide the link containing the dataset. 
+The csv file and cif files are large , I provided the generated dataloader in alignn_nmc_eig_HSE_individual_node_v3_april23_pbe.pickle in the zip file. The following 2 python files are used to generate this dataloader. Let me know if you want to run them. I will provide the link containing the dataset. 
 First, run prepare_loader_part1.py </br>
 Second, run prepare_loader_part2.py
 
