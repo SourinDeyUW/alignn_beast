@@ -9,7 +9,7 @@ conda create --name perl </br>
 source activate perl
 
 
-git clone https://github.com/SourinDeyUW/alignn.git </br>
+git clone https://github.com/SourinDeyUW/alignn_beast.git </br>
 cd alignn </br>
 python setup.py develop --user </br>
 
