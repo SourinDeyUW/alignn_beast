@@ -17,7 +17,7 @@ source activate perl
 
 
 git clone https://github.com/SourinDeyUW/alignn_beast.git </br>
-cd alignn </br>
+cd alignn_beast </br>
 python setup.py develop --user </br>
 
 
