@@ -25,7 +25,7 @@ pip install dgl-cu102 # import torch;print(torch.version.cuda) , if 10.2, then p
 
 unzip alignn_nmc_eig_HSE_individual_node_v3_april23_pbe.zip
 
-python alignn/train_folder.py --root_dir "alignn/examples/sample_data"  --batch_size "16" --epochs 2 --config "alignn/examples/sample_data/config_example.json" --output_dir="demo_v1" >> output.txt
+python alignn/train_folder.py --root_dir "alignn/examples/sample_data"  --batch_size "16" --epochs 200 --config "alignn/examples/sample_data/config_example.json" --output_dir="demo_v1" >> output.txt
 
 
 
